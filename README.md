@@ -14,7 +14,7 @@ This repository contains source MATLAB code of the fast DCT-2/DCT-4 recursive al
 <div style="text-align: center;">
 <img src="fig/DCT2_bb.png" width="330"/>
 </div>
-<p style="text-align: center;"> Fig 2. Fast 16-point DCT-2 </p>
+<p style="text-align: center;"> Fig 2. Building block of the fast DCT algorithm </p>
 
 ## Source code
 Source code is given in the ```matlab``` folder. Here is a brief desciption of the code:
