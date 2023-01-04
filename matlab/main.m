@@ -35,7 +35,7 @@ for k=1:n
     Ylabels(1,k) = {['DCT2[' num2str(k-1) ',l]']};
 end
 
-figure('Position',[100 100 800 500]);
+figure('Position',[100 100 800 450]);
 subplot(121);
 s = stackedplot(l, DCT2_ref', 'Marker','o','DisplayLabels',Ylabels);
 s.LineWidth = 1;
